@@ -56,8 +56,8 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=TaskinMubassira&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,reviews&rank_icon=github&custom_title=Tasmia%27s%20GitHub%20Stats&card_width=450&theme=radical&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=10b981&ring_color=0f766e&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="190" src="https://streak-stats.demolab.com?user=TaskinMubassira&hide_border=true&background=0B1220&ring=0F766E&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1F2937" alt="Contribution streak" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=TaskinMubassira&show_icons=true&count_private=true&v=20261002&show=prs_merged,reviews&rank_icon=github&custom_title=Tasmia%27s%20GitHub%20Stats&card_width=450&theme=radical&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=10b981&ring_color=0f766e&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="190" src="https://streak-stats.demolab.com?user=TaskinMubassira&v=20261002&hide_border=true&background=0B1220&ring=0F766E&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1F2937" alt="Contribution streak" />
 </p>
 
 ### 🏆 Trophies
