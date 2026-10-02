@@ -63,7 +63,7 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 #### 📅 Contribution calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0f766e/TaskinMubassira" alt="Contribution calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/0f766e/TaskinMubassira?v=20261002" alt="Contribution calendar" width="100%" />
 </p>
 
 ### 🏆 Trophies
