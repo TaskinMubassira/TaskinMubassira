@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1220,50:0f766e,100:22d3ee&height=200&section=header&text=Tasmia%20Taskin%20Mubassira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Cyber%20Security&descAlignY=60&descSize=17&animation=fadeIn" alt="Tasmia Taskin Mubassira" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f766e,100:22d3ee&height=200&section=header&text=Tasmia%20Taskin%20Mubassira&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Cyber%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Tasmia Taskin Mubassira" />
 </p>
 
 <p align="center">
@@ -23,6 +23,16 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 - 🧪 **Security testing:** vulnerability scanning, web app testing, traffic analysis on Linux
 - 💻 **Software engineering:** backend APIs and web apps with Python, JavaScript and SQL
 - 🌱 Currently learning **penetration testing and cloud security**
+
+---
+
+### 🔎 Security projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**secure-auth-api**](https://github.com/TaskinMubassira/secure-auth-api) | Authentication API with bcrypt, JWT, rate limiting and account lockout, mapped to the OWASP Top 10 | Python · FastAPI · SQLite |
+| [**auth-log-analyzer**](https://github.com/TaskinMubassira/auth-log-analyzer) | Detects SSH brute force, password spraying and web attacks in server logs | Python · CLI |
+| [**password-strength-checker**](https://github.com/TaskinMubassira/password-strength-checker) | Password strength scoring and a privacy-preserving breach check (k-anonymity) | Python · HIBP API |
 
 ---
 
@@ -79,5 +89,5 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22d3ee,50:0f766e,100:0b1220&height=100&section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0f766e,100:0b1220&height=100&section=footer" alt="" />
 </p>
