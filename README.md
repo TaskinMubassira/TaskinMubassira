@@ -26,16 +26,6 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 
 ---
 
-### 🔎 Security projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**secure-auth-api**](https://github.com/TaskinMubassira/secure-auth-api) | Authentication API with bcrypt, JWT, rate limiting and account lockout, mapped to the OWASP Top 10 | Python · FastAPI · SQLite |
-| [**auth-log-analyzer**](https://github.com/TaskinMubassira/auth-log-analyzer) | Detects SSH brute force, password spraying and web attacks in server logs | Python · CLI |
-| [**password-strength-checker**](https://github.com/TaskinMubassira/password-strength-checker) | Password strength scoring and a privacy-preserving breach check (k-anonymity) | Python · HIBP API |
-
----
-
 ### 🧰 Tech stack
 
 <p align="center">
