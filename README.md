@@ -60,12 +60,6 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
   <img height="190" src="https://streak-stats.demolab.com?user=TaskinMubassira&hide_border=true&background=0B1220&ring=0F766E&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1F2937" alt="Contribution streak" />
 </p>
 
-#### 📅 Contribution calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0f766e/TaskinMubassira?v=20261002" alt="Contribution calendar" width="100%" />
-</p>
-
 ### 🏆 Trophies
 
 <p align="center">
