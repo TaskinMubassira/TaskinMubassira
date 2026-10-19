@@ -26,8 +26,6 @@ I'm a **Network Analyst at Vivasoft Limited** in Dhaka (since July 2023, after a
 - ☁️ **Cloud & infrastructure:** AWS fundamentals (EC2, S3, IAM) and IT infrastructure monitoring
 - 📝 **Documentation:** network configurations, troubleshooting steps and incident records
 
-🎓 B.Sc. in Computer Science & Engineering, Northern University Bangladesh · IELTS 6.5
-
 🌱 Currently learning **network security and AWS cloud**
 
 ---
