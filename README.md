@@ -1,14 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f766e,100:22d3ee&height=200&section=header&text=Tasmia%20Taskin%20Mubassira&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Cyber%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Tasmia Taskin Mubassira" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f766e,100:22d3ee&height=200&section=header&text=Tasmia%20Taskin%20Mubassira&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Network%20Analyst%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=58&descSize=18&animation=fadeIn" alt="Tasmia Taskin Mubassira" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+software+engineer;Building+secure%2C+reliable+web+applications;Security+by+design%2C+not+as+an+afterthought" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+network+analyst;Monitoring%2C+troubleshooting+%26+securing+networks;Reliable+networks%2C+one+packet+at+a+time" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
-  <a href="https://deltadeveloperbd.com/"><img src="https://img.shields.io/badge/Delta%20Dev-Software%20Engineer-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Delta Dev" /></a>
+  <img src="https://img.shields.io/badge/Vivasoft%20Limited-Network%20Analyst-0f766e?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Analyst at Vivasoft Limited" />
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-0b1220?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Dhaka, Bangladesh" />
   <img src="https://komarev.com/ghpvc/?username=TaskinMubassira&label=Profile%20views&color=0f766e&style=for-the-badge" alt="Profile views" />
 </p>
@@ -17,38 +17,40 @@
 
 ### 🛡️ About me
 
-I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I build web applications and keep them safe — from secure authentication and access control to testing for the vulnerabilities attackers look for.
+I'm a **Network Analyst at Vivasoft Limited** in Dhaka (since July 2023, after a network internship there from January 2023). I keep networks stable, fast and secure: monitoring availability and performance, finding and fixing connectivity problems, and spotting unusual activity before it becomes an incident.
 
-- 🔐 **Application security:** secure login and sessions, role-based access, input validation, OWASP Top 10
-- 🧪 **Security testing:** vulnerability scanning, web app testing, traffic analysis on Linux
-- 💻 **Software engineering:** backend APIs and web apps with Python, JavaScript and SQL
-- 🌱 Currently learning **penetration testing and cloud security**
+- 📡 **Network monitoring:** availability and performance of routers, switches and other network components
+- 🛠️ **Troubleshooting:** connectivity diagnostics and resolving issues that affect network operations
+- 📈 **Performance analysis:** reading traffic and performance data to find bottlenecks and irregularities
+- 🔐 **Network security:** access permissions and controls, monitoring unusual activity, escalating security concerns
+- ☁️ **Cloud & infrastructure:** AWS fundamentals (EC2, S3, IAM) and IT infrastructure monitoring
+- 📝 **Documentation:** network configurations, troubleshooting steps and incident records
+
+🎓 B.Sc. in Computer Science & Engineering, Northern University Bangladesh · IELTS 6.5
+
+🌱 Currently learning **network security and AWS cloud**
 
 ---
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <b>Languages</b><br />
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bash,powershell&perline=8" alt="Languages" />
+  <b>Networking & security</b><br /><br />
+  <img src="https://img.shields.io/badge/Network%20Monitoring-0f766e?style=flat-square&logo=cisco&logoColor=white" alt="Network monitoring" />
+  <img src="https://img.shields.io/badge/Troubleshooting-0f766e?style=flat-square&logo=cisco&logoColor=white" alt="Network troubleshooting" />
+  <img src="https://img.shields.io/badge/Performance%20Analysis-0f766e?style=flat-square&logo=speedtest&logoColor=white" alt="Performance analysis" />
+  <img src="https://img.shields.io/badge/Connectivity%20Diagnostics-0f766e?style=flat-square&logo=cisco&logoColor=white" alt="Connectivity diagnostics" />
+  <img src="https://img.shields.io/badge/Access%20Controls-0b1220?style=flat-square&logo=letsencrypt&logoColor=22d3ee" alt="Network access controls" />
+  <img src="https://img.shields.io/badge/Activity%20Monitoring-0b1220?style=flat-square&logo=letsencrypt&logoColor=22d3ee" alt="Network activity monitoring" />
 </p>
 <p align="center">
-  <b>Web & backend</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,fastapi,mysql,postgres,mongodb,redis&perline=9" alt="Web and backend" />
+  <b>Cloud & tools</b><br />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode&perline=5" alt="AWS, Linux, Git, GitHub, VS Code" />
+  <br /><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </p>
 <p align="center">
-  <b>Systems, cloud & tools</b><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,nginx,aws,cloudflare,git,github,postman,vscode&perline=10" alt="Systems and tools" />
-</p>
-
-<p align="center">
-  <b>Security toolkit</b><br /><br />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=gnubash&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <b>Programming & databases</b><br />
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb&perline=4" alt="Python, JavaScript, MySQL, MongoDB" />
 </p>
 
 ---
@@ -69,7 +71,7 @@ I'm a **software engineer at Delta Dev** with a focus on **cyber security**. I b
 ---
 
 <p align="center">
-  <code>// security is not a product, it's a process</code>
+  <code>// reliable networks, one packet at a time</code>
 </p>
 
 <p align="center">
